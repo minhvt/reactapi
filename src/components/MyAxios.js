@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 
 function MyAxios(props) {
-    let apiurl = "http://localhost:3000/nhanvien";
+    let apiurl = "https://my-json-server.typicode.com/minhvt/jsondb/nhanvien";// "http://localhost:3000/nhanvien";
     const [db, setDB] = useState([]);
     const [inputs, setInputs] = useState({});    
     const loadAPI = () => {
@@ -39,7 +39,7 @@ function MyAxios(props) {
     return (
         <div>
             <center>
-                <form action='http://localhost:3000/nhanvien' method='post' onSubmit={submitForm}>
+                <form action='hhttps://my-json-server.typicode.com/minhvt/jsondb/nhanvien' method='post' onSubmit={submitForm}>
                     <table border="1">
                         <tr>
                             <th>Fullname</th>
