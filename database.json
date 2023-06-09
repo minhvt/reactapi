@@ -1,0 +1,49 @@
+{
+  "nhanvien": [
+    {
+      "id": 1,
+      "fullname": "Lê Thu Trang",
+      "yob": 2004
+    },
+    {
+      "id": 2,
+      "fullname": "Phan Mai Chi",
+      "yob": 1988
+    },
+    {
+      "id": 3,
+      "fullname": "Nguyễn Thu Trúc",
+      "yob": 1990
+    },
+    {
+      "id": 4,
+      "fullname": "Hoàng Thị Lụa",
+      "yob": 1991
+    },
+    {
+      "id": 5,
+      "fullname": "Bùi Phương Huệ",
+      "yob": 2006
+    },   
+    {
+      "id": 9,
+      "fullname": "Tuấn",
+      "yob": 1980
+    },
+    {
+      "fullname": "Lý Chiêu Hoàng",
+      "yob": "1992",
+      "id": 10
+    },
+    {
+      "fullname": "Huỳnh Tuấn Kiệt",
+      "yob": "2005",
+      "id": 11
+    },
+    {
+      "fullname": "Trịnh Long Vũ",
+      "yob": "2000",
+      "id": 12
+    }
+  ]
+}
